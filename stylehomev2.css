@@ -1,0 +1,77 @@
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.imgprofil{
+    border-radius: 50%;
+    box-sizing: border-box;
+    display: block;
+    height: 35px;
+    padding: 2px;
+    width: 35px;
+    border: 2px solid black;
+    margin-top: 19;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    background-color: white;
+    width: 100%;
+    border-radius: 3px;
+}
+.navbarl{
+    display: flex;
+    margin-left: 10px;
+}
+.navbarr{
+    display: flex;
+}
+
+.Search{
+    width: 250px;
+    height: 27px;
+    margin-top: 15px;
+    margin-right: 1px;
+    border: 2px solid black;
+    border-radius: 3px;
+    padding-left: 10px;
+
+}
+
+.leftsec{
+    width: 360px;
+    height: 200px;
+    background-color: rgb(255, 255, 255); 
+    border-radius: 10px;
+}
+
+.Enter-your-text-here{
+    padding-left: 5px; 
+    margin-left: 15px; 
+    width: 300px;
+    height: 28px;
+    border: 2px solid black;
+    border-radius: 3px;
+    background-color:  rgb(216, 216, 216) ;
+    margin-top: 10px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+}
+
+.sharebtn{
+    margin-top: 20px; 
+    margin-left: 260px  ; 
+    padding: 8px; 
+    background-color: rgb(255, 190, 51);
+    border: rgb(255, 190, 51);
+    border-radius: 3px;
+    
+}
+
